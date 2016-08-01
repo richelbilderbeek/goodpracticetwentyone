@@ -1,4 +1,4 @@
-Package: goodpracticeeighteen
+Package: goodpracticetwentyone
 Type: Package
 Title: tests if a file its documentation contains examples
 Version: 0.1.0
@@ -6,11 +6,9 @@ Author: Richel Bilderbeek
 Maintainer: Richel Bilderbeek <richel@richelbilderbeek.nl>
 Description: this package is an experiment, to be added to
   MangoTheCat their goodpractice package. Goal is to fix
-  issue 18 at their GitHub.
+  issue 21 at their GitHub.
 License: file LICENSE
 LazyData: TRUE
-Imports:
-    tools
 Suggests:
     knitr,
     rmarkdown,
@@ -18,3 +16,5 @@ Suggests:
     testthat
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
+URL: https://github.com/richelbilderbeek/goodpracticetwentyone
+BugReports: https://github.com/richelbilderbeek/goodpracticetwentyone/issues
